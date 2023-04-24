@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/08 13:30:35.000.330,=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 10:22:27.000.698,=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 10:32:27.000.452,=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 10:28:37.000.381,=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/22 10:33:03.000.716,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\uPessoa.dfm=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/04/22 10:33:03.000.716,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\uPessoa.pas=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/22 10:33:48.000.118,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Cliente.dproj=C:\Users\Victor Natan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/22 10:49:04.000.257,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 10:51:40.000.696,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Model\uCep.pas=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 10:52:17.000.922,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Model\uCepModel.pas</Transaction>
+    <Transaction>2023/04/22 11:03:39.000.630,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 11:08:16.000.132,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\shared\uCustomApi.pas=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 11:54:29.000.918,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 11:55:02.000.244,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\uDmClient.pas=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 11:55:02.000.244,C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\uDmClient.dfm=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\client\Unit1.dfm</Transaction>
+    <Transaction>2023/04/24 08:07:00.000.638,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\shared\URetorno.pas</Transaction>
+    <Transaction>2023/04/24 09:01:25.000.267,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\shared\uPessoaModel.pas</Transaction>
+    <Transaction>2023/04/24 12:46:31.973,=C:\Users\Victor Natan\Desktop\DataSnap-RESTFul-CRUD-master\shared\uEnderecoModel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
